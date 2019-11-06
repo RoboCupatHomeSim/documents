@@ -27,11 +27,10 @@ https://github.com/RoboCupatHomeSim/human-navigation-unity/wiki/SystemOverview
 
 # Execute the Software for the Competition
 
-## Handyman
-
-The procedure for executing the sample program is described below.  
+The execution procedure of the example program is described below.  
 For details please refer to the readme and the wiki of each repository.
 
+## Handyman
 1. Install the ROS package.  
 https://github.com/RoboCupatHomeSim/handyman-ros#how-to-install
 1. Build the Unity project.  
@@ -44,10 +43,6 @@ https://github.com/RoboCupatHomeSim/handyman-ros#how-to-execute-sample-ros-node
 https://github.com/RoboCupatHomeSim/handyman-unity#execute-on-unity-editor
 
 ## Interactive Cleanup
-
-The procedure for executing the sample program is described below.  
-For details please refer to the readme and the wiki of each repository.
-
 1. Install the ROS package.  
 https://github.com/RoboCupatHomeSim/interactive-cleanup-ros#how-to-install
 1. Build the Unity project.  
