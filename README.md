@@ -15,4 +15,4 @@ For the software manual of the competition please refer to the following page.
 
 # Specification of the virtual HSR
 
-Please see this file (Virtual_HSR_spec.pdf)
+Please see this file [Virtual_HSR_spec.pdf](Virtual_HSR_spec.pdf)
