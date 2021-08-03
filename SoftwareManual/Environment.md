@@ -11,7 +11,7 @@ The competition organizer will prepare the Windows computer to run the programs 
 | No | Item       | Description    |
 |:--:| ---------- |----------------|
 | 1  | OS         | Windows 10     |
-| 2  | Unity      | [Unity 2018.4.11f1][download unity] |
+| 2  | Unity      | [Unity 2018.4.19f1][download unity] |
 | 3  | IP Address | 192.168.0.1    |
 | 4  | Note       | System requirements for Unity are as below.<br>https://unity3d.com/unity/system-requirements<br> System requirements for Oculus Rift S are as below.<br>https://support.oculus.com/170128916778795/ |
 
