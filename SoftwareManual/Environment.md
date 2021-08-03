@@ -11,9 +11,9 @@ The competition organizer will prepare the Windows computer to run the programs 
 | No | Item       | Description    |
 |:--:| ---------- |----------------|
 | 1  | OS         | Windows 10     |
-| 2  | Unity      | [Unity 2018.4.19f1][download unity] |
+| 2  | Unity      | [Unity 2020.3.14f1][download unity] |
 | 3  | IP Address | 192.168.0.1    |
-| 4  | Note       | System requirements for Unity are as below.<br>https://unity3d.com/unity/system-requirements<br> System requirements for Oculus Rift S are as below.<br>https://support.oculus.com/170128916778795/ |
+| 4  | Note       | System requirements for Unity are as below.<br>https://unity3d.com/unity/system-requirements<br> System requirements for Oculus Quest 2 are as below.<br>https://support.oculus.com/articles/headsets-and-accessories/oculus-link/index-oculus-link |
 
 ### Ubuntu PC
 
@@ -22,8 +22,8 @@ The participants need to prepare an Ubuntu computer. Participants need to instal
 
 | No | Item       | Description    |
 |:--:| ---------- |----------------|
-| 1  | OS         | Ubuntu16.04    |
-| 2  | ROS version| [Kinetic Kame][ros installation] |
+| 1  | OS         | Ubuntu18.04    |
+| 2  | ROS version| [Melodic Morenia][ros installation] |
 | 3  | IP Address | 192.168.0.2    |
 | 4  | Note       | Wireless communication during competition is prohibited. |
 
@@ -31,12 +31,12 @@ The participants need to prepare an Ubuntu computer. Participants need to instal
 
 Participants shall use 1000BASE-T switching hub with a connection speed of 1 Gbps.
 
-### Oculus Rift S
+### Oculus Quest 2
 
-Participants will use an Oculus Rift S depending on the competitive challenge.
+Participants will use an Oculus Quest 2 depending on the competitive challenge.
 
 [download unity]:https://unity3d.com/get-unity/download/archive "download"
-[ros installation]:http://wiki.ros.org/kinetic/Installation "installation"
+[ros installation]:http://wiki.ros.org/melodic/Installation/Ubuntu "installation"
 
 ----------------------------------
 
@@ -62,6 +62,6 @@ Please install the ROS on Ubuntu.
 
 ### Oculus Software
 
-To use Oculus Rift S, you should install Oculus Software.
+To use Oculus Quest 2, you should install Oculus Software.
 
 [download oculus](https://www.oculus.com/setup/)
