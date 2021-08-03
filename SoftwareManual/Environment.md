@@ -40,7 +40,7 @@ Participants will use an Oculus Quest 2 depending on the competitive challenge.
 
 ----------------------------------
 
-# software
+# Software
 
 To run the competition application, you should install the following software.
 
