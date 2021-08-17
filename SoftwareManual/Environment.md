@@ -62,6 +62,6 @@ Please install the ROS on Ubuntu.
 
 In order to use Oculus Quest 2, you need to install Oculus Software and SteamVR.
 
-[download Oculus Software](https://www.oculus.com/setup/)
-[download Steam](https://store.steampowered.com/about/)
-[download SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
+[download Oculus Software](https://www.oculus.com/setup/)  
+[download Steam](https://store.steampowered.com/about/)  
+[download SteamVR](https://store.steampowered.com/app/250820/SteamVR/)  
