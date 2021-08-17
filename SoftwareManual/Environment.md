@@ -42,8 +42,6 @@ Participants will use an Oculus Quest 2 depending on the competitive challenge.
 
 # Software
 
-To run the competition application, you should install the following software.
-
 ### Unity
 
 Unity is the game development platform.
@@ -62,6 +60,8 @@ Please install the ROS on Ubuntu.
 
 ### Oculus Software
 
-To use Oculus Quest 2, you should install Oculus Software.
+In order to use Oculus Quest 2, you need to install Oculus Software and SteamVR.
 
-[download oculus](https://www.oculus.com/setup/)
+[download Oculus Software](https://www.oculus.com/setup/)
+[download Steam](https://store.steampowered.com/about/)
+[download SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
