@@ -28,40 +28,22 @@ https://github.com/RoboCupatHomeSim/human-navigation-unity/wiki/SystemOverview
 # Execute the Software for the Competition
 
 The execution procedure of the example program is described below.  
-For details please refer to the readme and the wiki of each repository.
+For details please refer to the readme and the wiki of repositories.
 
 ## Handyman
-1. Install the ROS package.  
-https://github.com/RoboCupatHomeSim/handyman-ros#how-to-install
-1. Build the Unity project.  
-https://github.com/RoboCupatHomeSim/handyman-unity#how-to-build
-1. Set up the Unity project.  
-https://github.com/RoboCupatHomeSim/handyman-unity#how-to-set-up
-1. Execute the sample ROS node.  
-https://github.com/RoboCupatHomeSim/handyman-ros#how-to-execute-sample-ros-node
-1. Execute the Unity scene on Unity Editor.  
-https://github.com/RoboCupatHomeSim/handyman-unity#execute-on-unity-editor
+- Ubuntu(ROS) side  
+https://github.com/RoboCupatHomeSim/handyman-ros
+- Windows(Unity) side  
+https://github.com/RoboCupatHomeSim/handyman-unity
 
 ## Interactive Cleanup
-1. Install the ROS package.  
-https://github.com/RoboCupatHomeSim/interactive-cleanup-ros#how-to-install
-1. Build the Unity project.  
-https://github.com/RoboCupatHomeSim/interactive-cleanup-unity#how-to-build
-1. Set up the Unity project.  
-https://github.com/RoboCupatHomeSim/interactive-cleanup-unity#how-to-set-up
-1. Execute the sample ROS node.  
-https://github.com/RoboCupatHomeSim/interactive-cleanup-ros#how-to-execute-sample-ros-node
-1. Execute the Unity scene on Unity Editor.  
-https://github.com/RoboCupatHomeSim/interactive-cleanup-unity#execute-on-unity-editor
+- Ubuntu(ROS) side  
+https://github.com/RoboCupatHomeSim/interactive-cleanup-ros
+- Windows(Unity) side  
+https://github.com/RoboCupatHomeSim/interactive-cleanup-unity
 
 ## Human Navigation
-1. Install the ROS package.  
-https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-install
-1. Build the Unity project.  
-https://github.com/RoboCupatHomeSim/human-navigation-unity#how-to-build
-1. Set up the Unity project.  
-https://github.com/RoboCupatHomeSim/human-navigation-unity#how-to-set-up
-1. Execute the example ROS node.  
-https://github.com/RoboCupatHomeSim/human-navigation-ros#how-to-execute
-1. Execute the Unity scene on Unity Editor.  
-https://github.com/RoboCupatHomeSim/human-navigation-unity#execute-on-unity-editor
+- Ubuntu(ROS) side  
+https://github.com/RoboCupatHomeSim/human-navigation-ros
+- Windows(Unity) side  
+https://github.com/RoboCupatHomeSim/human-navigation-unity
