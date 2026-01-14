@@ -7,6 +7,7 @@ This organization is for the RoboCup@Home Simulation competition.
 Please refer to the following page.  
 https://sites.google.com/view/robocup-athome-sim/
 
+
 # System Overview
 
 The robot simulation in a virtual world is built with Unity and ROS 2.  
@@ -25,10 +26,19 @@ For details on setting up the environment, please refer to the [environment](Env
 [the official SIGVerse website]:https://github.com/SIGVerse/sigverse_unity_project/wiki "SIGVerse"
 
 
-# Software Manual
+# Tasks
 
-For the software manual of the competition please refer to the following page.  
-[Software Manual](SoftwareManual/SoftwareManual.md)
+Please refer to the repository for each task.
+
+Handyman  
+https://github.com/RoboCupatHomeSim/handyman-unity2/
+
+Interactive Cleanup  
+https://github.com/RoboCupatHomeSim/interactive-cleanup-unity2/
+
+Human Navigation  
+https://github.com/RoboCupatHomeSim/human-navigation-unity2/
+
 
 # Specification of the virtual HSR
 
