@@ -10,10 +10,10 @@ The competition organizer will prepare the Windows computer to run the programs 
 
 | No | Item       | Description    |
 |:--:| ---------- |----------------|
-| 1  | OS         | Windows 11     |
-| 2  | Unity      | [Unity 6000.0.62f1][download unity] |
+| 1  | OS         | Windows 10     |
+| 2  | Unity      | [Unity 2021.3.3f1][download unity] |
 | 3  | IP Address | 192.168.0.1    |
-| 4  | Note       | System requirements for Unity are as below.<br>https://docs.unity3d.com/6000.0/Documentation/Manual/system-requirements.html<br> System requirements for Meta Quest 2/3 are as below.<br>https://www.meta.com/help/quest/140991407990979/ |
+| 4  | Note       | System requirements for Unity are as below.<br>https://docs.unity3d.com/Manual/system-requirements.html<br> System requirements for Oculus Quest 2 are as below.<br>https://store.facebook.com/en-us/help/quest/articles/headsets-and-accessories/oculus-link/ |
 
 ### Ubuntu PC
 
@@ -22,8 +22,8 @@ The participants need to prepare an Ubuntu computer. Participants need to instal
 
 | No | Item       | Description    |
 |:--:| ---------- |----------------|
-| 1  | OS         | Ubuntu 22.04    |
-| 2  | ROS 2 version| [Humble Hawksbill][ros installation] |
+| 1  | OS         | Ubuntu 20.04    |
+| 2  | ROS version| [Noetic Ninjemys][ros installation] |
 | 3  | IP Address | 192.168.0.2    |
 | 4  | Note       | Wireless communication during competition is prohibited. |
 
@@ -31,12 +31,12 @@ The participants need to prepare an Ubuntu computer. Participants need to instal
 
 Participants shall use 1000BASE-T switching hub with a connection speed of 1 Gbps.
 
-### Meta Quest 2/3
+### Oculus Quest 2
 
-Participants will use an Oculus Quest 2/3 depending on the competitive challenge.
+Participants will use an Oculus Quest 2 depending on the competitive challenge.
 
-[download unity]:https://unity.com/releases/editor/archive "download"
-[ros installation]:https://docs.ros.org/en/humble/Installation.html "installation"
+[download unity]:https://unity3d.com/get-unity/download/archive "download"
+[ros installation]:http://wiki.ros.org/noetic/Installation/Ubuntu "installation"
 
 ----------------------------------
 
@@ -44,22 +44,24 @@ Participants will use an Oculus Quest 2/3 depending on the competitive challenge
 
 ### Unity
 
-Unity is the game development platform.  
+Unity is the game development platform.
 https://unity3d.com/
 
-Please install the Unity on Windows.  
+Please install the Unity on Windows.
 [download Unity][download unity]
 
-### ROS 2
+### ROS
 
 ROS (Robot Operating System) is an open-source, meta-operating system for robot.  
-https://docs.ros.org/
+http://wiki.ros.org/
 
-Please install the ROS 2 on Ubuntu.  
+Please install the ROS on Ubuntu.  
 [install ROS][ros installation]
 
-### Meta Horizon Link
+### Oculus Software
 
-In order to use Meta Quest 2/3, you need to install Meta Horizon Link.  
-[download Meta Horizon Link](https://www.meta.com/help/quest/509273027107091/)  
+In order to use Oculus Quest 2, you need to install Oculus Software and SteamVR.
 
+[download Oculus Software (OculusSetup.exe)](https://store.facebook.com/quest/setup/)  
+[download Steam](https://store.steampowered.com/about/)  
+[download SteamVR](https://store.steampowered.com/app/250820/SteamVR/)  
