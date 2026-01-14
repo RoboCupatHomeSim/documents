@@ -1,6 +1,8 @@
 The basic configuration for the RoboCup@Home Simulation requires a Windows computer to run SIGVerse as well as an Ubuntu computer to run ROS nodes created by the participants. These two computers should be connected to a switching hub.  
 
-See http://www.sigverse.org for information about SIGVerse.
+Please see [the official SIGVerse website] for information about SIGVerse.
+
+[the official SIGVerse website]:https://github.com/SIGVerse/sigverse_unity_project/wiki "SIGVerse"
 
 # Equipment
 
