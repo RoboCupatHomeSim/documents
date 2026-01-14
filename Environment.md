@@ -24,11 +24,11 @@ The participants need to prepare an Ubuntu computer.
 And install the ROS 2 nodes created by participants for the competition on the Ubuntu computer.  
 (Contact the competition organizer if you cannot prepare the Ubuntu computer)
 
-| No | Item       | Description    |
-|:--:| ---------- |----------------|
-| 1  | OS         | Ubuntu 22.04   |
+| No | Item         | Description    |
+|:--:| ------------ |----------------|
+| 1  | OS           | Ubuntu 22.04   |
 | 2  | ROS 2 version| [Humble Hawksbill][ros installation] |
-| 3  | IP Address | 192.168.0.2    |
+| 3  | IP Address   | 192.168.0.2    |
 
 **Wireless communication during competition is prohibited.**
 
