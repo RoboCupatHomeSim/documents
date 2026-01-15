@@ -14,6 +14,13 @@ The competition organizer will prepare the Windows computer to run the competiti
 The system requirements for Unity are as follows.  
 https://docs.unity3d.com/6000.0/Documentation/Manual/system-requirements.html  
 
+Please install the English language if you are using other than English.  
+The procedure is like as follows.
+1. Open the Windows settings menu
+2. Click [Time & Language] - [Region & language]
+3. Click [Add a language] in [Languages]-[Preferred languages]
+4. Select "English (United States)" and Install
+
 For tasks that use Meta Quest 2/3, [Meta Horizon Link](https://www.meta.com/help/quest/509273027107091/) must be installed.  
 The system requirements for Meta Horizon Link are as follows.  
 https://www.meta.com/help/quest/140991407990979/
