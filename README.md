@@ -25,6 +25,16 @@ For details on setting up the environment, please refer to the [environment](Env
 
 [the official SIGVerse website]:https://github.com/SIGVerse/sigverse_unity_project/wiki "SIGVerse"
 
+# Repositories
+
+Name                       | Description    
+-------------------------- |----------------
+handyman-unity2            | Handyman task Unity project   
+interactive-cleanup-unity2 | Interactive Cleanup task Unity project
+human-navigation-unity2    | Human Navigation task Unity project
+common-unity2              | Unity project common to all competition tasks
+ros2-competition-msgs      | ROS 2 interfaces and examples for all competition tasks
+console-simple-tts         | C# app for Text-to-Speech
 
 # Tasks
 
