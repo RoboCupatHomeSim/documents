@@ -10,18 +10,12 @@ The competition organizer will prepare the Windows computer to run the competiti
 | 2  | Unity      | [Unity 6000.0.62f1][download unity] |
 | 3  | IP Address | 192.168.0.1    |
 
-[Unity](https://unity3d.com/) is a game engine used to build games and interactive applications.  
+- [Unity](https://unity3d.com/) is a game engine used to build games and interactive applications.  
 The system requirements for Unity are as follows.  
-https://docs.unity3d.com/6000.0/Documentation/Manual/system-requirements.html  
-
-Please install the English language if you are using other than English.  
-The procedure is like as follows.
-1. Open the Windows settings menu
-2. Click [Time & Language] - [Region & language]
-3. Click [Add a language] in [Languages]-[Preferred languages]
-4. Select "English (United States)" and Install
-
-For tasks that use Meta Quest 2/3, [Meta Horizon Link](https://www.meta.com/help/quest/509273027107091/) must be installed.  
+https://docs.unity3d.com/6000.0/Documentation/Manual/system-requirements.html
+- Install at least one English (en-US) text-to-speech voice for Male and Female in Windows Settings.  
+Confirm the voices are available under [Settings]->[Time & language]->[Speech]->[Voices] (e.g., Microsoft David / Microsoft Zira).
+- For tasks that use Meta Quest 2/3, [Meta Horizon Link](https://www.meta.com/help/quest/509273027107091/) must be installed.  
 The system requirements for Meta Horizon Link are as follows.  
 https://www.meta.com/help/quest/140991407990979/
 
@@ -37,9 +31,8 @@ And install the ROS 2 nodes created by participants for the competition on the U
 | 2  | ROS 2 version| [Humble Hawksbill][ros installation] |
 | 3  | IP Address   | 192.168.0.2    |
 
-**Wireless communication during competition is prohibited.**
-
-[ROS 2 (Robot Operating System 2)](https://docs.ros.org/) is an open-source robotics middleware framework.  
+- [ROS 2 (Robot Operating System 2)](https://docs.ros.org/) is an open-source robotics middleware framework.  
+- **Wireless communication during competition is prohibited.**
 
 ## Ethernet switch
 
